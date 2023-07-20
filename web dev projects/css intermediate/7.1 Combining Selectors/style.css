@@ -1,0 +1,18 @@
+h1, h2{
+    color: blueviolet;
+}
+div > p{
+    color: firebrick;
+}
+div > ul > li{
+    color: blue;
+}
+div > ul > li.done{
+    color: darkgreen;
+}
+ul > p{
+    color: aqua;
+}
+ p.done#asd{
+    color: orange;
+}
